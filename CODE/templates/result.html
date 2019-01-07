@@ -1,0 +1,98 @@
+<script>
+var text = '{{result.text}}';
+var labels = [];
+var images = [];
+
+{% for item in result.labels %}
+   labels.push({{item|safe}});
+{% endfor %}
+
+{% for item in result.imageLinks %}
+   images.push('{{item|safe}}');
+{% endfor %}
+
+var scores = [];
+{% for item in result.scores %}
+   scores.push('{{item|safe}}');
+{% endfor %}
+
+var index = 0;
+
+function build() {
+
+
+    for(index = 0; index < images.length; ++index) {
+        var outline = document.createElement("div");
+        var x = document.createElement("P");
+        x.appendChild(document.createTextNode("Image Tags: "))
+        labels[index].forEach(function(label) {
+            labelText = document.createTextNode(label + " | ");
+            x.appendChild(labelText);
+        })
+        // var t1 = document.createTextNode(labels[index]);
+        var x2 = document.createElement("p");
+        x2.appendChild(document.createTextNode("Score: " + scores[index]));
+        x2.classList.add("strokeme");
+        x.classList.add("strokeme");
+        outline.appendChild(x);
+        outline.appendChild(x2);
+
+        if(images[index] == '//:0') {
+            var x2 = document.createElement("P");
+            var t2 = document.createTextNode("Image Not Found");
+            x2.appendChild(t1);
+            outline.appendChild(x2);
+        } else {
+            var img = document.createElement('img')
+            img.src = images[index];
+            img.style.maxWidth = window.innerHeight;
+            img.style.maxHeight = window.innerHeight;
+
+            outline.appendChild(img);
+        }
+        document.getElementById("content").appendChild(outline);
+    }
+
+}
+
+function backHome() {
+    window.location.href = "/";
+    return;
+}
+
+</script>
+<head>
+<link rel="stylesheet" href="../static/css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
+</head>
+<body onload="build();">
+<!-- <body> -->
+<center>
+
+    <div id="Results">
+
+        <button class = "button2" onclick="backHome()">Play Again</button>
+        <!-- <button onclick="changePrevious()">Previous</button> -->
+        <!-- <button onclick="changeNext()">Next</button> -->
+
+        <div class = page max-width = 700px>
+            <div class="border">
+                <p>{{result.text}}</p>
+                <p>Keywords: {{result.keywords|safe}}</p>
+
+                <br>
+                <img style="max-width:500px" style="max-height:500px" src="{{result.best}}"/>
+            </div>
+            <h2>Our Process</h2>
+            <h4>All images, their keywords, tags and scores</h4>
+            <div class="contents" id="content"></div>
+
+        </div>
+
+        <button class = "button2" onclick="backHome()">Play Again</button>
+        <!-- <button onclick="changePrevious()">Previous</button> -->
+        <!-- <button onclick="changeNext()">Next</button> -->
+
+    </div>
+</center>
+</body>

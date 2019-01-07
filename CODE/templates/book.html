@@ -1,0 +1,143 @@
+<script>
+var words = [];
+var images = [];
+
+// {% for item in bestLinks %}
+//    images.push("{{item|safe}}");
+// {% endfor %}
+
+{% for item in result.bestLinks %}
+   images.push("{{item|safe}}");
+{% endfor %}
+
+{% for item in paragraphs %}
+   words.push({{item|safe}});
+{% endfor %}
+
+
+
+// var scores = [];
+// {% for item in result.scores %}
+//    scores.push('{{item|safe}}');
+// {% endfor %}
+
+function build() {
+    var pageNum = {{result.page}};
+    var maxPage = {{result.maxPage}};
+    var first = {{result.first}};
+    localStorage.setItem('bookNum', {{result.bookNum}});
+    if (pageNum != null) {
+        localStorage.setItem('page', pageNum);
+    }
+
+    document.getElementById('topNext').style.display = 'block';
+    document.getElementById('bottomNext').style.display = 'block';
+    document.getElementById('topPrev').style.display = 'block';
+    document.getElementById('bottomPrev').style.display = 'block';
+
+    if (first) {
+        document.getElementById('topPrev').style.display = 'none';
+        document.getElementById('bottomPrev').style.display = 'none';
+    } else if (pageNum == maxPage) {
+        document.getElementById('topNext').style.display = 'none';
+        document.getElementById('bottomNext').style.display = 'none';
+    }
+
+
+    for(var index = 0; index < images.length; ++index) {
+        var x = document.createElement("P");
+        var t1 = document.createTextNode(words);
+        // var t2 = document.createTextNode("Score: " + scores[index])
+        x.appendChild(t1);
+        // x.appendChild(t2);
+        x.style.fontSize = "18px";
+        document.getElementById("content").appendChild(x);
+
+        if(images[index] == '//:0') {
+            var x2 = document.createElement("P");
+            var t2 = document.createTextNode("Image Not Found");
+            x2.appendChild(t1);
+            document.getElementById("content").appendChild(x2);
+        } else {
+            var img = document.createElement('img')
+            img.src = images[index];
+            img.style.maxWidth = window.innerHeight;
+            img.style.maxHeight = window.innerHeight;
+            document.getElementById("content").appendChild(img);
+        }
+    }
+
+}
+
+function backHome() {
+    window.location.href = "/";
+    return;
+}
+
+function next() {
+    var pageNum = null
+    if (localStorage.getItem('page')) {
+        pageNum = localStorage.getItem('page');
+    }
+    var bookNum = null
+    if (localStorage.getItem('bookNum')) {
+        bookNum = localStorage.getItem('bookNum');
+    }
+    window.location.href = "/book?bookNum=" + bookNum + "&page=" + pageNum + "&dir=next";
+    return;
+}
+
+function prev() {
+    var pageNum = null
+    if (localStorage.getItem('page')) {
+        pageNum = localStorage.getItem('page');
+    }
+    var bookNum = null
+    if (localStorage.getItem('bookNum')) {
+        bookNum = localStorage.getItem('bookNum');
+    }
+    window.location.href = "/book?bookNum=" + bookNum + "&page=" + pageNum + "&dir=prev";
+    return;
+}
+
+// function goNext() {
+//     var pageNum = null
+//     if (localStorage.getItem('page')) {
+//         pageNum = localStorage.getItem('page');
+//     }
+//     var bookNum = null
+//     if (localStorage.getItem('bookNum')) {
+//         bookNum = localStorage.getItem('bookNum');
+//     }
+//     window.location.href = "/next?bookNum=" + bookNum + "page=" + pageNum;
+//     return;
+// }
+
+</script>
+<head>
+<link rel="stylesheet" href="../static/css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
+</head>
+<body onload="build();">
+<center>
+
+    <div id="Results">
+
+        <button class = "button3" id="topPrev" onclick="prev()">Previous Paragraph</button>
+        <button class = "button3" onclick="backHome()">Select another book</button>
+        <button class = "button3" id="topNext" onclick="next()">Next Paragraph</button>
+
+        <div class = page max-width = 700px>
+
+            <div class="contents" id="content"></div>
+
+
+        </div>
+
+        <!-- <button onclick="backHome()">Select another book</button> -->
+        <button class = "button3" id="bottomPrev" onclick="prev()">Previous Paragraph</button>
+        <button class = "button3" id="bottomNext" onclick="next()">Next Paragraph</button>
+
+    </div>
+</center>
+</body>

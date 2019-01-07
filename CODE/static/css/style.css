@@ -1,0 +1,133 @@
+p {
+  white-space: pre-wrap;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.strokeme
+{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+input[type="text"],textarea {
+    width: 500px;
+    height: 300px;
+}
+html,body{
+  height:100%;
+  background-color:  #474747;
+}
+
+body{
+   color: white;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18.618px;
+}
+ol{
+  line-height: 1.5;
+}
+a{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button2 {
+    background-color: white;
+    border: none;
+    color: black;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button3 {
+    background-color: white;
+    border: none;
+    color: black;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block !important;
+    font-size: 16px;
+}
+#About-Us{
+  padding: 50px 150px;
+  font-size: 16px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: justify;
+}
+#first_para{
+  font-size: 20px;
+}
+.styled-select {
+  box-sizing: border-box;
+
+  overflow: hidden;
+  position: relative;
+  align-self: center;
+}
+.styled-select, .styled-select select { width: 240px;}
+select:focus { outline: none; }
+.styled-select select {
+  height: 40px;
+  padding: 5px 0 5px 5px;
+  background: white;
+  border: none;
+  background-color: white;
+  outline: none;
+  font-size: 16px;
+  font-family:  'Ubuntu', sans-serif;
+  text-align: center;
+  display: inline-block;
+}
+#Enter-Text{
+  font-size: 15px;
+}
+#paste{
+  font-size: 40px;
+  line-height:.5;
+}
+#SubmitButton{
+  width:150px;
+  height: 30px;
+}
+
+.border
+{
+  border: 3px solid black;
+  max-width: window.height;
+}
+
+#loader{
+  position: 'absolute';
+  height: 25%;
+  width: 25%;
+  overflow: 'hidden';
+  /*display: none;*/
+  /*opacity: .5;*/
+}
+.header1{
+  font-size: 60px;
+}

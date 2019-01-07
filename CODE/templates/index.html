@@ -1,0 +1,145 @@
+<!doctype html>
+<head>
+<link rel="stylesheet" href="../static/css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
+</head>
+<!-- <body onload="build();"> -->
+<body>
+<center>
+
+  <h1 class = "header1" >Img-ify</h1>
+  <form > <input class = "button" type = "button" value = "About us"
+    onclick="return navigate('About-Us');"/>
+  <input class = "button" type = "button" value = "Choose a pre-set option"
+    onclick="return navigate('Select-a-Book');"/>
+ <input class = "button" type = "button" value = "Enter playground"
+    onclick="return navigate('Enter-Text');"/>
+  </form>
+
+  <div class="styled-select" id="Select-a-Book" style="display:none">
+    <select onchange="return goToBook(this);" >
+      <option value="">--Please Select Book--</option>
+      <!-- <option value="1">The Giver</option> -->
+      <option value="2">Sherlock Holmes</option>
+      <option value="3">A Tale of Two Cities</option>
+      <option value="4">Tom Sawyer</option>
+      <option value="5">Grimm's Fairytales</option>
+      <option value="6">Stories from Tagore</option>
+      <option value="7">The Hollowland</option>
+    </select>
+  </div>
+
+  <!-- <div id="Results" style="display:none">
+
+    <button onclick="return navigate('Select-a-Book');">Select another book</button>
+    <button onclick="changePrevious()">Previous</button>
+    <button onclick="changeNext()">Next</button>
+
+    <div class = page max-width = 700px>
+
+      <div class="contents" id="content"></div>
+
+    </div>
+
+    <button onclick="return navigate('Select-a-Book');">Select another book</button>
+    <button onclick="changePrevious()">Previous</button>
+    <button onclick="changeNext()">Next</button>
+
+  </div> -->
+
+
+  <div id = "About-Us" style="display:none">
+    <p id = "first_para"> This is the final project for team Legendata (team 20) in CSE 6242 at Georgia Tech.
+    </p>
+    You have two options while interacting with the page:
+    <ol type ="a">
+    <li>Browse through a few classical American texts that we have pre-loaded onto the page and enjoy reading them along with images.</li>
+    <li>
+    Enter our playground and add your own text.</li>
+    </ol>
+    <br>
+    If you're interested in entering your own text click Enter Playground, our algorithm does the following:</p>
+    <ol>
+    <li>Applies a NLP algorithm TF-IDF (Text Frequency Inverse Document Frequency, IDF using Brown Corpus)
+    to find the most important keywords in the text.</li>
+    <li>Searches for images using those keywords.</li>
+    <li>Uses Google Cloud Machine Learning to find labels for the images found.</li>
+    <li>Utilizes Spacy to find the semantic match between the word vectors of keywords and labels
+    providet a score to each image.</li>
+    <li>Returns the image with the best score.</li>
+  </ol>
+
+  </div>
+
+  <div id = "Enter-Text" style="display:none">
+    </br>
+    <p id=paste>Paste Text Below</p>
+    <p>(Text with about 70 - 200 words work best)</p>
+    <form method = "POST" action="/loading">
+      <textarea type="text" name="input" cols="30" rows="5"></textarea><br><br>
+      <input type="hidden" name="url" value="/result">
+      <input id = "SubmitButton" class = "button" type="submit" value="Submit">
+    </form>
+  </div>
+
+</center>
+
+<script>
+// $(document).ready(function() {
+    function navigate(show) {
+      hide = ['About-Us', 'Enter-Text', 'Select-a-Book']
+      hide = arrayRemove(hide, show)
+
+      console.log(show)
+      for (i = 0; i < hide.length; i++) {
+        console.log('hide this' + hide[i])
+        document.getElementById(hide[i]).style.display='none';
+      }
+
+      document.getElementById(show).style.display='block';
+      if (show == 'Add-Images-to-Book'){document.getElementById('Page1').style.display='block'}
+      return false;
+    }
+
+    function show(shown, hidden) {
+      document.getElementById(shown).style.display='block';
+      document.getElementById(hidden).style.display='none';
+      return false;
+    }
+
+    function arrayRemove(arr, value) {
+      return arr.filter(function(ele){
+        return ele != value;
+     });
+    }
+
+    function goToBook(option) {
+      var form = document.createElement('form');
+      document.body.appendChild(form);
+      form.method = 'POST';
+      form.action = "/loading";
+      var input = document.createElement('input');
+      input.type = 'hidden';
+      input.name = "input";
+      input.value = option.value;
+      form.appendChild(input);
+
+      var input = document.createElement('input');
+      input.type = 'hidden';
+      input.name = "url";
+      input.value = "/book?bookNum=" + option.value + "&page=0&dir=next";;
+      form.appendChild(input);
+
+      form.submit();
+
+
+
+      // window.location.href =
+      // return false;
+    }
+// })
+
+
+
+</script>
+</body>

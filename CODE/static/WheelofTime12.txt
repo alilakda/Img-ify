@@ -1,0 +1,518 @@
+ 
+
+THE WHEEL OF TIME 
+by Robert Jordan 
+The Eye of the World 
+The Great Hunt The Dragon Reborn The Shadow Rising The Fires of Heaven 
+Lord of Chaos A Crown of Swords The Path of Daggers 
+Winter's Heart 
+Crossroads of Twilight 
+Knife of Dreams 
+by Robert Jordan and Brandon Sanderson 
+The Gathering Storm 
+
+This is a work of fiction. All of the characters, organizations, and events portrayed in this novel are either products of the authors' imaginations or 
+are used fictitiously. 
+THE GATHERING STORM 
+Copyright © 2009 by The Bandersnatch Group, Inc. 
+The phrases "The Wheel of Time
+All rights reserved. 
+Maps by Ellisa Mitchell 
+Interior illustrations by Matthew C. Nielsen and Ellisa Mitchell 
+
+-wheel symbol, are trademarks of Robert Jordan. 
+
+ 
+
+A Tor Book 
+Published by Tom Doherty Associates, LLC 
+175 Fifth Avenue 
+New York, NY 10010 
+www.tor-forge.com 
+Tor® is a registered trademark of Tom Doherty Associates, LLC. 
+Library of Congress Cataloging-in-Publication Data 
+Jordan, Robert, 1948-2007. 
+The gathering storm / Robert Jordan and Brandon Sanderson.
+p.        cm.
+"Maps by Ellisa Mitchell; interior illustrations by Matthew C. Nielsen and Ellisa Mitchell." 
+ISBN 978-0-7653-0230-4 (regular edition) ISBN 978-0-7653-2416-0 (limited edition) 
+1. Rand al'Thor (Fictitious character) Fiction.        I.    Sanderson, Brandon.        II. Title. PS3560.O7617G38        2009 813'.54
+2009035171 
+First Edition: November 2009 Printed in the United States of America 0987654321 
+
+(The Wheel of time ; 12) "A Tom Doherty Associates book." 
+
+1st ed. 
+
+dc22 
+
+FOREWORD 
+
+influenced, in large part, by how much I loved The 
+
+In November 2007, I received a phone call that would change my life forever. Harriet McDougal, wife 
+and editor of the late Robert Jordan, called to ask me if I would complete the last book of The Wheel of 
+Time. 
+For those who did not know Mr. Jordan had passed away, it pains me to be the one to break the news. I 
+remember how I felt when while idly browsing the Internet on September 16, 2007
+I discovered that 
+he had died. I was shocked, stunned, and disheartened. This wonderful man, a hero to me in my writing 
+career, was gone. The world suddenly became a different place. 
+I first picked up The Eye of the World in 1990, when I was a teenage fantasy addict visiting my corner 
+bookstore. I became a fan instantly and eagerly awaited The Great Hunt. Over the years, I've read the 
+books numerous times, often re-reading the entire series when a new book was released. Time passed, and 
+I decided I wanted to become a fantasy author
+Wheel of Time. And yet, never did I think that I would one day get that phone call from Harriet. It came 
+to me as a complete surprise. I had not asked, applied, or dared wish for this opportunity
+though when 
+the request was made, my answer was immediate. I love this series as I have loved none other, and the 
+characters feel like old, dear friends from my childhood. 
+I cannot replace Robert Jordan. Nobody could write this book as well as he could have. That is a simple 
+fact. Fortunately, he left many notes, outlines, completed scenes, and dictated explanations with his wife 
+and assistants. Before his passing, he asked Harriet to find someone to complete the series for his fans. He 
+loved you all very much and spent the very last weeks of his life dictating events for the final volume. It 
+was to be called A Memory of Light. 
+Eighteen months later, we are here. Mr. Jordan promised that the final book would be big. But the 
+manuscript soon grew prohibitively huge; it would be three times the size of a regular Wheel of Time 
+book, and the decision was made by Harriet and Tor to split A Memory of Light into thirds. There were 
+several excellent breaking points that would give a full and complete story in each third. You may think 
+of The Gathering 
+6                                                                                                                                                                FOREWORD 
+Storm and its two followers as the three volumes of A Memory of Light or as the final three books of The 
+Wheel of Time. Both are correct. 
+As of this writing, I am halfway done with the second third. We are working as quickly as is reasonable, 
+and we don't want you to have to wait too long to get the ending we were all promised nearly twenty 
+years ago. (Mr. Jordan did write this ending himself before he passed away, and I have read it. And it is 
+fantastic.) I have not tried to imitate Mr. Jordan's style. Instead, I've adapted my style to be appropriate to 
+The Wheel of Time. My main goal was to stay true to the souls of the characters. The plot is, in large part, 
+Robert Jordan's, though many of the words are mine. Imagine this book as the product of a new director 
+working on some of the scenes of a movie while retaining the same actors and script. 
+But this is a big project, and it will take time to complete. I beg your patience as we spend these next few 
+years perfecting this story. We hold in our hands the ending of the greatest fantasy epic of our time, and I 
+
+intend to see it done right. I intend to remain true to Mr. Jordan's wishes and notes. My artistic integrity, 
+and love for the books, will not let me do anything less. In the end, I let the words herein stand as the best 
+argument for what we are doing. 
+This is not my book. It is Robert Jordan's book, and to a lesser extent, it is your book. 
+Thank you for reading. 
+BRANDON SANDERSON June 2009 
+For Maria Simons and Alan Romanczuk, without whom this book wouldn't have been possible 
+
+CONTENTS 
+
+MAPS..................................12-13, 442 
+PROLOGUE: What the Storm Means.................17 
+1                Tears from Steel..................................49 
+2                The Nature of Pain...............................64 
+3                The Ways of Honor...............................81 
+4                Nightfall.......................................92 
+5                A Tale of Blood..................................97 
+6                When Iron Melts................................112 
+7                The Plan for Arad Doman.........................121 
+8                Clean Shirts....................................136 
+9                Leaving Maiden.................................155 
+10                The Last of the Tabac.............................168 
+11                The Death of Adrin..............................180 
+12                Unexpected Encounters...........................191 
+13                An Offer and a Departure.........................212 
+14                A Box Opens...................................227 
+15                A Place to Begin................................234 
+16                In the White Tower..............................249 
+17                Questions of Control.............................275 
+18                A Message in Haste..............................285 
+19                Gambits......................................294 
+20                On a Broken Road...............................311 
+21                Embers and Ash................................325 
+22                The Last That Could Be Done......................338 
+23                A Warp in the Air...............................357 
+io                                                                                                                                                      CONTENTS 
+24                A New Commitment.............................362 
+25                In Darkness....................................378 
+26                A Crack in the Stone.............................385 
+27                The Tipsy Gelding..............................400 
+28                Night in Hinderstap.............................420 
+29                Into Bandar Eban...............................443 
+30                Old Advice....................................457 
+31                  A Promise to Lews Therin.........................468 
+32                Rivers of Shadow................................489 
+33                A Conversation with the Dragon....................512 
+34                Legends.......................................522 
+35                A Halo of Blackness.............................536 
+36                The Death of Tuon..............................550 
+
+37                A Force of Light................................562 
+38                News in Tel'aran'rhiod . . :.........................581 
+39                A Visit from Verin Sedai..........................598 
+40                The Tower Shakes...............................618 
+41                  A Fount of Power...............................634 
+42                  Before the Stone of Tear...........................654 
+43                  Sealed to the Flame..............................664 
+44                Scents Unknown................................684 
+45                  The Tower Stands...............................702 
+46                To Be Forged Again..............................714 
+47                  The One He Lost................................728 
+48                  Reading the Commentary..........................741 
+49                Just Another Man...............................749 
+50                Veins of Gold...................................755 
+EPILOGUE: Bathed in Light......................761 
+GLOSSARY...................................767 
+Ravens and crows. Rats. Mists and clouds. Insects and corruption. Strange events and odd occurrences. 
+The ordinary twisted and strange. Wonders! 
+The dead are beginning to walk, and some see them. Others do not, but more and more, we all fear the 
+night. 
+These have been our days. They rain upon us beneath a dead sky, crushing us with their fury, until as one 
+we beg: "Let it begin!" 
+
+Journal of the Unknown Scholar, entry for The Feast of Freia, 1000 NE 
+
+PROLOGUE 
+
+ 
+
+What the Storm Means 
+Renald Fanwar sat on his porch, warming the sturdy blackoak chair crafted for him by his grandson two 
+years before. He stared northward. 
+At the black and silver clouds. 
+He'd never seen their like before. They blanketed the entire horizon to the north, high in the sky. They 
+weren't gray. They were black and silver. Dark, rumbling thunderheads, as dark as a root cellar at 
+midnight. With striking silver light breaking between them, flashes of lightning that gave off no sound. 
+The air was thick. Thick with the scents of dust and dirt. Of dried leaves and rain that refused to fall. 
+Spring had come. And yet his crops didn't grow. Not a sprout had dared poke through the earth. 
+He rose slowly from his chair, wood creaking, chair rocking softly behind him, and walked up to the edge 
+of the porch. He chewed on his pipe, though its fire had gone out. He couldn't be bothered to relight it. 
+Those clouds transfixed him. They were so black. Like the smoke of a brushfire, only no brushfire smoke 
+ever rose that high up in the air. And what to make of silver clouds? Bulging between the black ones, like 
+places where polished steel shone through metal crusted with soot. 
+He rubbed his chin, glancing down at his yard. A small, whitewashed fence contained a patch of grass and 
+shrubs. The shrubs were dead now, 
+17 
+18                                                                                      THE      GATHERING      STORM 
+every one of them. Hadn't lasted through that winter. He'd need to pull them out soon. And the grass . . . 
+
+dry grass, dry shingles, dry seed. 
+
+perhaps on his property. He itched to go inspect the 
+
+well, the grass was still just winter thatch. Not even any weeds sprouted. 
+A clap of thunder shook him. Pure, sharp, like an enormous crash of metal against metal. It rattled the 
+windows of the house, shook the porch boards, seemed to vibrate his very bones. 
+He jumped back. That strike had been close
+damage. Lightning fire could destroy a man, burn him out of his land. Up here in the Borderlands, so 
+many things were unintentional tinder
+But the clouds were still distant. That strike couldn't have been on his property. The silver and black 
+thunderheads rolled and boiled, feeding and consuming themselves. 
+He closed his eyes, calming himself, taking a deep breath. Had he imagined the thunder? Was he going 
+off the side, as Gaffin always joked? He opened his eyes. 
+And the clouds were right there, directly above his house. 
+It was as if they had suddenly rolled forward, intending to strike while his gaze was averted. They 
+dominated the sky now, sweeping distantly in either direction, massive and overwhelming. He could 
+almost feel their weight pressing the air down around him. He drew in a breath that was heavy with 
+sudden humidity, and his brow prickled with sweat. 
+Those clouds churned, dark black and silver thunderheads shaking with white blasts. They suddenly 
+boiled downward, like the funnel cloud of a twister, coming for him. He cried out, raising a hand, as a 
+man might before a powerfully bright light. That blackness. That endless, suffocating blackness. It would 
+take him. He knew. 
+And then the clouds were gone. 
+His pipe hit the porch's floorboards, clicking softly, tossing burned tabac out in a spray across the steps. 
+He hadn't realized he'd let it slip free. Renald hesitated, looking up at empty blue sky, realizing that he 
+was cringing at nothing. 
+The clouds were off on the horizon again, some forty leagues distant. They thundered softly. 
+He picked up his pipe with a shaking hand, spotted from age, tanned from years spent in the sun. Just a 
+trick of your mind, Renald, he told himself. You're going off the side, sure as eggs is eggs. 
+He was on edge because of the crops. That had him on edge. Though he spoke optimistic words for the 
+lads, it just wasn't natural. Something 
+WHAT      THE      STORM      MEANS                                                                            19 
+should have sprouted by now. He'd farmed that land for forty years! Barley didn't take this long to sprout. 
+Burn him, but it didn't. What was going on in the world these days? Plants couldn't be depended on to 
+sprout, and clouds didn't stay where they should. 
+He forced himself to sit back down in his chair, legs shaking. Getting old, I am. ...    he thought. 
+He'd worked a farm all of his life. Farmsteading in the Borderlands was not easy, but if you worked hard, 
+you could grow a successful life while you grew strong crops. "A man has as much luck as he has seeds 
+in the field," his father had always said. 
+Well, Renald was one of the most successful farmers in the area. He'd done well enough to buy out the 
+two farms beside his, and he could run thirty wagons to market each fall. He now had six good men 
+working for him, plowing the fields, riding the fences. Not that he didn't have to climb down in the muck 
+every day and show them what good farming was all about. You couldn't let a little success ruin you. 
+Yes, he'd worked the land, lived the land, as his father always used to say. He understood the weather as 
+well as a man could. Those clouds weren't natural. They rumbled softly, like an animal growling on a 
+dark night. Waiting. Lurking in the nearby woods. 
+He jumped at another crash of thunder that seemed too close. Were those clouds forty leagues away? Is 
+that what he'd thought? Looked more like ten leagues away, now that he studied them. 
+"Don't get like that," he grumbled at himself. His own voice sounded good to him. Real. It was nice to 
+hear something other than that rumbling and the occasional creak of shutters in the wind. Shouldn't he be 
+able to hear Auaine inside, getting supper ready? 
+"You're tired. That's it. Tired." He fished in his vest pocket and pulled out his tabac pouch. 
+A faint rumbling came from the right. At first, he assumed it was the thunder. However, this rumbling 
+was too grating, too regular. That wasn't thunder. It was wheels turning. 
+
+Sure enough, a large, oxen-drawn wagon crested Mallard's Hill, just to the east. Renald had named that 
+hill himself. Every good hill needed a name. The road was Mallard's Road. So why not name the hill that 
+too? 
+He leaned forward in his chair, pointedly ignoring those clouds as he squinted toward the wagon, trying to 
+make out the driver's face. Thulin? The smith? What was he doing, driving a wagon laden halfway to the 
+heavens? He was supposed to be working on Renald's new plow! 
+20                                                                                      THE      GATHERING      STORM 
+Lean for one of his trade, Thulin was still twice as muscled as most farmhands. He had the dark hair and 
+tan skin of a Shienaran, and kept his face shaved after their fashion, but he did not wear the topknot. 
+Thulin's family might trace its roots back to Borderland warriors, but he himself was just a simple country 
+man like the rest of them. He ran the smithy over in Oak Water, five miles to the east. Renald had enjoyed 
+many a game of stones with the smith during winter evenings. 
+Thulin was getting on he hadn't seen as many years as Renald, but the last few winters had prompted 
+Thulin to start speaking of retirement. Smithing wasn't an old man's trade. Of course, neither was farming. 
+Were there really any old man's trades? 
+Thulin's wagon approached along the packed earthen road, approaching Renald's white-fenced yard. Now, 
+that's odd, Renald thought. Behind the wagon trailed a neat string of animals: five goats and two 
+milkcows. Crates of black-feathered chickens were tied on the outside of the wagon, and the bed of the 
+wagon itself was piled full of furniture, sacks and barrels. Thulin's youthful daughter, Mirala, sat on the 
+seat with him, next to his wife, a golden-haired woman from the south. Twenty-five years Thulin's wife, 
+but Renald still thought of Gallanha as "that southern girl." 
+The whole family was in the wagon, leading their best livestock. Obviously on the move. But where? Off 
+to visit relatives, perhaps? He and Thulin hadn't played a round of stones in ... oh, three weeks now. Not 
+much time for visiting, what with the coming of spring and the hurried planting. Someone would need to 
+mend the plows and sharpen the scythes. Who would do it if Thulin's smithy went cold? 
+Renald tucked a pinch of tabac into his pipe as Thulin pulled the wagon up beside Renald's yard. The 
+lean, gray-haired smith handed the reins to his daughter, then climbed down from the wagon, feet 
+throwing puffs of dust into the air when he hit the ground. Behind him the distant storm still brewed. 
+Thulin pushed open the fence gate, then strode up to the porch. He looked distracted. Renald opened his 
+mouth to give greeting, but Thulin spoke first. 
+"I buried my best anvil in Gallanha's old strawberry patch, Renald," the big smith said. "You remember 
+where that is, don't you? I packed my best set of tools there as well. They're well greased and inside my 
+best chest, lined to keep it dry. That should keep the rust off of them. For a time at least." 
+Renald closed his mouth, holding his pipe half-full. If Thulin was 
+WHAT      THE      STORM      MEANS                                                                            21 
+burying his anvil . . . well, it meant he wasn't planning to come back for a while. "Thulin, what
+"If I don't return," Thulin said, glancing northward, "would you dig my things out and see that they're 
+cared for? Sell them to someone who cares, Renald. I wouldn't have just anyone beating that anvil. Took 
+me twenty years to gather those tools, you know." 
+"But Thulin!" Renald sputtered. "Where are you going?" 
+Thulin turned back to him, leaning one arm on the porch railing, those brown eyes of his solemn. "There's 
+a storm coming," he said. "And so I figure I've got to head on to the north." 
+"Storm?" Renald asked. "That one on the horizon, you mean? Thulin, it looks bad
+does
+"Not like this, old friend," Thulin said. "This ain't the sort of storm you ignore." 
+"Thulin?" Renald asked. "What are you talking about?" 
+Before he could answer, Gallanha called from the wagon box. "Did you tell him about the pots?" 
+"Ah," Thulin said. "Gallanha polished up that set of copper-bottom pots that your wife always liked. 
+They're sitting on the kitchen table, waiting for Auaine, if she wants to go claim them." With that, Thulin 
+nodded to Renald and began to walk back toward the wagon. 
+Renald sat, stupefied. Thulin always had been a blunt one; he favored saying his mind, then moving on. 
+
+but there's no use running from it. We've had bad storms before." 
+
+burn my bones, but it 
+
+" 
+
+That was part of what Renald liked about him. But the smith could also pass through a conversation like a 
+boulder rolling through a flock of sheep, leaving everyone dazed. 
+Renald scrambled up, leaving his pipe on the chair and following Thulin down into the yard and to the 
+wagon. Burn it, Renald thought, glancing to the sides, noticing the brown grass and dead shrubs again. 
+He'd worked hard on that yard. 
+The smith was checking on the chicken crates tied to the sides of his vehicle. Renald caught up to him, 
+reaching out a hand, but Gallanha distracted him. 
+"Here, Renald," she said from the wagon box. "Take these." She held out a basket of eggs, one lock of 
+golden hair straying from her bun. Renald reached over to take the basket. "Give these to Auaine. I know 
+you're short on chickens on account of those foxes last fall." 
+Renald took the basket of eggs. Some were white, some were brown. "Yes, but where are you going, 
+Gallanha?" 
+22                                                                                      THE      GATHERING      STORM 
+"North, my friend," Thulin said. He walked past, laying a hand on Renald's shoulder. "There will be an 
+army gathering, I figure. They'll need smiths." 
+"Please," Renald said, gesturing with the basket of eggs. "At least take a few minutes. Auaine just put 
+some bread in, one of those thick honey loaves that you like. We can discuss this over a game of stones." 
+Thulin hesitated. 
+"We'd better be on the move," Gallanha said softly. "That storm is coming." 
+Thulin nodded, then climbed up into the wagon. "You might want to come north too, Renald. If you do, 
+bring everything you can." He paused. "You're good enough with the tools you have here to do some 
+small metalwork, so take your best scythes and turn them into polearms. Your two best scythes; now don't 
+go skimping around with anything that's a second best or a third best. Get your best, because it's the 
+weapon you're going to use." 
+Renald frowned. "How do you know that there will be an army? Thulin, burn me, I'm no soldier!" 
+Thulin continued as if he hadn't heard the comments. "With a polearm you can pull somebody off of a 
+horse and stab them. And, as I think about it, maybe you can take the third best and make yourself a 
+couple of swords." 
+"What do I know about making a sword? Or about using a sword, for that matter?" 
+"You can learn," Thulin said, turning north. "Everyone will be needed, Renald. Everyone. They're coming 
+for us." He glanced back at Renald. "A sword really isn't all that tough to make. You take a scythe blade 
+and straighten it out, then you find yourself a piece of wood to act as a guard, to keep the enemy's blade 
+from sliding down and cutting your hand. Mostly you'll just be using things that you've already got." 
+Renald blinked. He stopped asking questions, but he couldn't stop thinking them. They bunched up inside 
+his brain like cattle all trying to force their way through a single gate. 
+"Bring all your stock, Renald," Thulin said. "You'll eat them or your men will eat them and you'll 
+want the milk. And if you don't, then there'll be men you can trade with for beef or mutton. Food will be 
+scarce, what with everything spoiling so much and the winter stores having run low. Bring everything 
+you've got. Dried beans, dried fruit, everything." 
+WHAT      THE      STORM      MEANS                                                                            23 
+Renald leaned back against the gate to his yard. He felt weak and limp. Finally, he forced out just one 
+question. "Why?" 
+Thulin hesitated, then stepped away from the wagon, laying a hand on Renald's shoulder again. "I'm sorry 
+to be so abrupt. I ... well, you know how I am with words, Renald. I don't know what that storm is. But I 
+know what it means. I've never held a sword, but my father fought in the Aiel War. I'm a Borderlander. 
+And that storm means the end is coming, Renald. We need to be there when it arrives." He stopped, then 
+turned and looked to the north, watching those building clouds as a farmhand might watch a poisonous 
+snake he found in the middle of the field. "Light preserve us, my friend. We need to be there." 
+And with that, he removed his hand and climbed back into the wagon. Renald watched them ease off, 
+nudging the oxen into motion, heading north. Renald watched for a long time, feeling numb. 
+The distant thunder cracked, like the sound of a whip, smacking against the hills. 
+
+The door to the farmhouse opened and shut. Auaine came out to him, gray hair in a bun. It had been that 
+color for years now; she'd grayed early, and Renald had always been fond of the color. Silver, more than 
+gray. Like the clouds. 
+"Was that Thulin?" Auaine asked, watching the distant wagon throw up dust. A single black chicken 
+feather blew across the roadway. 
+"Yes." 
+"And he didn't stay, even to chat?" 
+Renald shook his head. 
+"Oh, but Gallanha sent eggs!" She took the basket and began to transfer the eggs into her apron to carry 
+them inside. "She's such a dear. Leave the basket there on the ground; I'm sure she'll send someone for it." 
+Renald just stared northward. 
+"Renald?" Auaine asked. "What's gotten into you, you old stump?" 
+"She polished up her pots for you," he said. "The ones with the copper bottoms. They're sitting on her 
+kitchen table. They're yours if you want them." 
+Auaine fell silent. Then he heard a sharp sound of cracking, and he looked over his shoulder. She had let 
+her apron grow slack, and the eggs were slipping free, plopping to the ground and cracking. 
+In a very calm voice, Auaine asked, "Did she say anything else?" 
+He scratched his head, which hadn't much hair left to speak of. "She 
+24                                                                                      THE      GATHERING      STORM 
+said the storm was coming and they had to head north. Thulin said we should go too." 
+They stood for another moment. Auaine pulled up the edge of her apron, preserving the majority of the 
+eggs. She didn't spare a glance for those that had fallen. She was just staring northward. 
+Renald turned. The storm had jumped forward again. And it seemed to have grown darker somehow. 
+"I think we ought to listen to them, Renald," Auaine said. "I'll . . . I'll go fix up what we'll need to bring 
+with us from the house. You can go around back and gather the men. Did they say how long we'll be 
+gone?" 
+"No," he said. "They didn't even really say why. Just that we need to go north for the storm. And . . . that 
+this is the end." 
+Auaine inhaled sharply. "Well, you just get the men ready. I'll take care of the house." 
+She bustled inside, and Renald forced himself to turn away from the storm. He rounded the house and 
+entered the barnyard, calling the farmhands together. They were a stout lot, good men, all of them. His 
+own sons had sought their fortunes elsewhere, but his six workers were nearly as close to him as sons. 
+Merk, Favidan, Rinnin, Veshir and Adamad gathered round. Still feeling dazed, Renald sent two to gather 
+up the animals, two more to pack what grain and provisions they had left from the winter and the final 
+man off to fetch Geleni, who had gone into the village for some new seed, just in case the planting had 
+gone bad on account of their stores. 
+The five men scattered. Renald stood in the farmyard for a moment, then went into the barn to fetch his 
+lightweight forge and pull it out into the sunlight. It wasn't just an anvil, but a full, compact forge, made 
+for moving. He had it on rollers; you couldn't work a forge in a barn. All that dust could take fire. He 
+heaved the handles, wheeling it out to the alcove set off to the side of the yard, built from good bricks, 
+where he could do minor repairs when he needed to. 
+An hour later, he had the fire stoked. He wasn't as skilled as Thulin, but he'd learned from his father that 
+being able to handle a little of your own forgework made a big difference. Sometimes, you couldn't 
+squander the hours it would take to go to town and back just to fix a broken hinge. 
+The clouds were still there. He tried not to look at them as he left the forge and headed into the barn. 
+Those clouds were like eyes, peeping over his shoulder. 
+Inside the barn, light sprinkled down through cracks in the wall, 
+WHAT      THE      STORM      MEANS                                                                            25 
+falling on dust and hay. He'd built the structure himself some twenty-five years back. He kept planning to 
+replace some of those warped roofing planks, but now there wouldn't be time. 
+At the tool wall, he reached for his third-best scythe, but stopped. Taking a deep breath, he took the best 
+
+eldest of his farmhands
+
+ approached, pulling a pair of goats. 
+
+scythe off the wall instead. He walked back out to the forge and knocked the haft off the scythe. 
+As he tossed the wood aside, Veshir
+When Veshir saw the scythe blade on the forge, his expression grew dark. He tied the goats to a post, then 
+trotted over to Renald, but said nothing. 
+How to make a polearm? Thulin had said they were good for yanking a man off his horse. Well, he would 
+have to replace the snath with a longer straight shaft of ashwood. The flanged end of the shaft would 
+extend beyond the heel of the blade, shaped into a crude spearpoint and clad with a piece of tin for 
+strength. And then he would have to heat the blade and bang off the toe about halfway, making a hook 
+that could tug a man off his horse and maybe cut him at the same time. He slid the blade into the burning 
+coals to heat it, then began to tie on his apron. 
+Veshir stood there for a minute or so, watching. Finally, he stepped up, taking Renald by the arm. 
+"Renald, what are we doing?" 
+Renald shook his arm free. "We're going north. The storm is coming and we're going north." 
+"We're going north for just a storm? It's insanity!" 
+It was nearly the same thing Renald had said to Thulin. Distant thunder sounded. 
+Thulin was right. The crops . . . the skies . . . the food going bad without warning. Even before he'd 
+spoken to Thulin, Renald had known. Deep within, he'd known. This storm would not pass overhead then 
+vanish. It had to be confronted. 
+"Veshir," Renald said, turning back to his work, "you've been a hand on this farm for . . . what, fifteen 
+years now? You're the first man I hired. How well have I treated you and yours?" 
+"You've done me well," Veshir said. "But burn me, Renald, you've never decided to leave the farm 
+before! These crops, they'll wither to dust if we leave them. This ain't no southerner wetfarm. How can we 
+just go off?" 
+"Because," Renald said, "if we don't leave, then it won't matter if we planted or not." 
+Veshir frowned. 
+id                                                                                    THE      GATHERING      STORM 
+"Son," Renald said, "you'll do as I say, and that's all we'll have of it. Go finish gathering the stock." 
+Veshir stalked away, but he did as he was told. He was a good man, if hotheaded. 
+Renald pulled the blade out of the heat, the metal glowing white. He laid it against the small anvil and 
+began to beat on the knobby section where heel met beard, flattening it. The sound of his hammer on the 
+metal seemed louder than it should have been. It rang like the pealing thunder, and the sounds blended. 
+As if each beat of his hammer was itself a piece of the storm. 
+As he worked, the peals seemed to form words. Like somebody muttering in the back of his head. The 
+same phrase over and over. 
+The storm is coming. The storm is coming. . . . 
+He kept on pounding, keeping the edge on the scythe, but straightening the blade and making a hook at 
+the end. He still didn't know why. But it didn't matter. 
+The storm was coming and he had to be ready. 
+Watching the bowlegged soldiers tie Tanera's blanket-wrapped body across a saddle, Falendre fought the 
+desire to begin weeping again, the desire to vomit. She was senior, and had to maintain some composure 
+if she expected the four other surviving sul'dam to do so. She tried to tell herself she had seen worse, 
+battles where more than a single sul'dam had died, more than one damane. That brought her too near 
+thinking of exactly how Tanera and her Miri met their deaths, though, and her mind shied from it. 
+Huddling by her side, Nenci whimpered as Falendre stroked the damane's head and tried to send soothing 
+feelings through the a'dam. That often seemed to work, but not so well today. Her own emotions were too 
+roiled. If only she could forget that the damane was shielded, and by whom. By what. Nenci whimpered 
+again. 
+"You will deliver the message as I directed you?" a man said behind her. 
+No, not just any man. The sound of his voice stirred the pool of acid in her belly. She made herself turn to 
+face him, made herself meet those cold, hard eyes. They changed with the angle of his head, now blue, 
+now gray, but always like polished gemstones. She had known many hard men, but had she ever known 
+
+one hard enough to lose a hand and mo- 
+WHAT      THE      STORM      MEANS                                                                            27 
+ments later take it as if he had lost a glove? She bowed formally, twitching the a'dam so that Nenci did 
+the same. So far they had been treated well for prisoners under the circumstances, even to being given 
+washwater, and supposedly they would not remain prisoners much longer. Yet with this man, who could 
+say what might make that change? The promise of freedom might be part of some scheme. 
+"I will deliver your message with the care it requires," she began, then stumbled over her tongue. What 
+honorific did she use for him? "My Lord Dragon," she finished hurriedly. The words dried her tongue, but 
+he nodded, so it must have sufficed. 
+One of the marath'damane appeared through that impossible hole in the air, a young woman with her hair 
+in a long braid. She wore enough jewelry for one of the Blood, and of all things, a red dot in the middle of 
+her forehead. "How long do you mean to stay here, Rand?" she demanded as if the hard-eyed young man 
+were a servant rather than who he was. "How close to Ebou Dar are we here? The place is full of 
+Seanchan, you know, and they probably fly raken all around it." 
+"Did Cadsuane send you to ask that?" he said, and her cheeks colored faintly. "Not much longer, 
+Nynaeve. A few minutes." 
+The young woman shifted her gaze to the other sul'dam and damane, all taking their lead from Falendre, 
+pretending there were no marath'damane watching them, and especially no men in black coats. The 
+others had straightened themselves as best they could. Surya had washed the blood from her face, and 
+from her Tabi's face, and Malian had tied large compresses on them that made them appear to be wearing 
+odd hats. Ciar had managed to clean off most of the vomit she had spilled down the front of her dress. 
+"I still think I should Heal them," Nynaeve said abruptly. "Hits to the head can cause odd things that don't 
+come on right away." 
+Surya, her face hardening, moved Tabi behind her as if to protect the damane. As if she could. Tabi's pale 
+eyes had widened in horror. 
+Falendre raised a pleading hand toward the tall young man. Toward the Dragon Reborn, it seemed. 
+"Please. They will receive medical aid as soon as we reach Ebou Dar." 
+"Give over, Nynaeve," the young man said. "If they don't want Healing, they don't want it." The 
+marath'damane scowled at him, gripping her braid so hard that her knuckles turned white. He turned his 
+own attention back to Falendre. "The road to Ebou Dar lies about an hour east of here. You can reach the 
+city by nightfall if you press. The shields on the 
+28                                                                                      THE      GATHERING      STORM 
+damane will evaporate in about half an hour. Is that right for the saidar-woven shields, Nynaeve?" The 
+woman scowled at him in silence. "Is that right, Nynaeve?" 
+"Half an hour," she replied finally. "But none of this is right, Rand al'Thor. Sending those damane back. It 
+isn't right, and you know it." 
+For a moment, his eyes were even colder. Not harder. That would have been impossible. But for that long 
+moment, they seemed to hold caverns of ice. "Right was easy to find when all I had to care for was a few 
+sheep," he said quietly. "Nowadays, sometimes it's harder to come by." Turning away, he raised his voice. 
+"Logain, get everyone back through the gateway. Yes, yes, Merise. I'm not trying to command you. If 
+you'll deign to join us, though? It will be closing soon." 
+Marath'damane, the ones who called themselves Aes Sedai, began filing through that mad opening in the 
+air, as did the black-coated men, the Asha'man, all mingling with the hook-nosed soldiers. Several of 
+those finished tying Tanera to the saddle of the horse. The beasts had been provided by the Dragon 
+Reborn. How odd, that he should give them gifts after what had happened. 
+The hard-eyed young man turned back to her. "Repeat your instructions." 
+"I am to return to Ebou Dar with a message for our leaders there." 
+"The Daughter of the Nine Moons," the Dragon Reborn said sternly. "You will deliver my message to 
+her." 
+Falendre stumbled. She was not in any way worthy to speak to one of the Blood, let alone the High Lady, 
+daughter of the Empress, might she live forever! But this man's expression allowed no argument. Falendre 
+
+
