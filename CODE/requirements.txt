@@ -41,7 +41,7 @@ pytz==2018.7
 rake-nltk==1.0.4
 regex==2018.1.10
 requests==2.20.0
-rsa==4.0
+rsa==4.1
 scipy==1.1.0
 selenium==3.14.1
 six==1.11.0
