@@ -52,7 +52,7 @@ toolz==0.9.0
 tqdm==4.28.1
 ujson==1.35
 update==0.0.1
-urllib3==1.24
+urllib3==1.26.5
 Werkzeug==0.14.1
 whitenoise==4.1
 wrapt==1.10.11
